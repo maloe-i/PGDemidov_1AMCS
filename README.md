@@ -10,7 +10,7 @@
       	- 6	
 - second semester
 	- laboratory
- 		- 1
+ 		- 7
 
 # Ссылки
 
