@@ -3,7 +3,14 @@
 - first_semester
 	- laboratory
 		- 1
+  		- 2
+    	- 3
+     	- 4
+      	- 5
+      	- 6	
 - second semester
+	- laboratory
+ 		- 1
 
 # Ссылки
 
