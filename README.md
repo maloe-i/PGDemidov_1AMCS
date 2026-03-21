@@ -11,6 +11,7 @@
 - [second semester](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester)
 	- [laboratory](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory)
  		- [7](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory/7)
+     	- [9](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/9) 
 
 # Ссылки
 
