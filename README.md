@@ -8,6 +8,7 @@
     	- [4](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/first_semester/laboratory/4)
     	- [5](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/first_semester/laboratory/5)
     	- [6](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/first_semester/laboratory/6)
+	- [lectures](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/first_semester/lectures)
 - [second semester](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester)
 	- [laboratory](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory)
 		- [7](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory/7)
@@ -15,6 +16,7 @@
 		- [11](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/11) 
 		-  [12](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/12) 
 		- [13](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/13) 
+	- [lectures](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/lectures)
 
 
 
