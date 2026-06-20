@@ -10,11 +10,11 @@
     	- [6](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/first_semester/laboratory/6)
 - [second semester](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester)
 	- [laboratory](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory)
-	- [7](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory/7)
-	- [9](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/9) 
-	- [11](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/11) 
-	-  [12](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/12) 
-	- [13](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/13) 
+		- [7](https://github.com/maloe-i/PGDemidov_1AMCS/tree/main/second%20semester/laboratory/7)
+		- [9](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/9) 
+		- [11](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/11) 
+		-  [12](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/12) 
+		- [13](https://github.com/maloe-i/PGDemidov_1AMCS/blob/main/second%20semester/laboratory/13) 
 
 
 
